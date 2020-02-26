@@ -132,21 +132,15 @@ font-size: 25px;
   color: white;
 }
 
-/* yahoo */
-.fa-yahoo {
-  background: #55ACEE;
-  color: white;
-  
-}
 
 
 .fa {
   padding: 20px;
-  font-size: 30px;
-  width: 30px;
+  font-size: 40px;
+  width: 40px;
   text-align: center;
   text-decoration: none;
-  border-radius: 50%;
+  border-radius: 80%;
 }
 
 .lady{
