@@ -156,9 +156,13 @@ font-size: 75px;
 float: right;
 }
 
+
 h4 {
 font-size: 75px;
-}
+text-align: center;
+color:blue;
+}}
+
 
 
 .right {
