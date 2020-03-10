@@ -4,6 +4,7 @@ nav {
 		background-color:white;
 		height: 40px;
   font-size: 25px;
+	font-family: 'Raleway', sans-serif;
 		}
 		
 		nav ul {
@@ -70,12 +71,14 @@ color: black;
 h1 {
 color: Blue;
   text-align: center;
-  font-size: 60px;
+  font-size: 45px;
+	font-family: 'Raleway', sans-serif;
 }
 
 p {
 color: black;
-  font-size: 40px;
+  font-size: 35px;
+	font-family: 'Raleway', sans-serif;
 }
 
 body {
@@ -152,19 +155,22 @@ font-size: 25px;
 
 
 h3 {
-font-size: 75px;
+font-size: 25px;
 float: right;
+	font-family: 'Raleway', sans-serif;
 }
 
 
 h4 {
-font-size: 75px;
+font-size: 35px;
 text-align: center;
 color:blue;
+	font-family: 'Raleway', sans-serif;
 }
 
 h5 {
 font-size: 25px;
+	font-family: 'Raleway', sans-serif;
 }
 
 
